@@ -1,0 +1,1001 @@
+,Representative,ReportDate,TransactionDate,Ticker,Transaction,Range,House,Amount,Party
+0,Robert E. Latta,2023-10-21,2023-10-20,FMBA,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+1,Robert J. Wittman,2023-10-19,2023-09-28,MSFT,Sale,"$1,001-$15,000",Representatives,1001.0,R
+2,Robert J. Wittman,2023-10-19,2023-09-28,ABBV,Sale,"$1,001-$15,000",Representatives,1001.0,R
+3,Robert J. Wittman,2023-10-19,2023-09-28,HIG,Sale,"$1,001-$15,000",Representatives,1001.0,R
+4,Robert J. Wittman,2023-10-19,2023-09-28,GOOG,Sale,"$1,001-$15,000",Representatives,1001.0,R
+5,Robert J. Wittman,2023-10-19,2023-09-28,AMZN,Sale,"$1,001-$15,000",Representatives,1001.0,R
+6,Robert J. Wittman,2023-10-19,2023-09-28,JPM,Sale,"$1,001-$15,000",Representatives,1001.0,R
+7,Robert J. Wittman,2023-10-19,2023-09-28,UNH,Sale,"$1,001-$15,000",Representatives,1001.0,R
+8,Robert J. Wittman,2023-10-19,2023-09-28,EOG,Sale,"$1,001-$15,000",Representatives,1001.0,R
+9,Robert J. Wittman,2023-10-19,2023-09-28,CAT,Sale,"$1,001-$15,000",Representatives,1001.0,R
+10,Robert J. Wittman,2023-10-19,2023-09-28,KMI,Sale,"$1,001-$15,000",Representatives,1001.0,R
+11,Robert J. Wittman,2023-10-19,2023-09-28,WMT,Sale,"$1,001-$15,000",Representatives,1001.0,R
+12,Robert J. Wittman,2023-10-19,2023-09-28,AAPL,Sale,"$1,001-$15,000",Representatives,1001.0,R
+13,Robert J. Wittman,2023-10-19,2023-09-28,PLD,Sale,"$1,001-$15,000",Representatives,1001.0,R
+14,Robert J. Wittman,2023-10-19,2023-09-15,FIS,Sale,"$1,001-$15,000",Representatives,1001.0,R
+15,Robert J. Wittman,2023-10-19,2023-09-15,IFF,Sale,"$1,001-$15,000",Representatives,1001.0,R
+16,Robert J. Wittman,2023-10-19,2023-09-07,AMT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+17,Josh Gottheimer,2023-10-15,2023-09-26,NOC,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+18,Josh Gottheimer,2023-10-15,2023-09-26,TGT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+19,Josh Gottheimer,2023-10-15,2023-09-26,AAPL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+20,Josh Gottheimer,2023-10-15,2023-09-22,TSLA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+21,Josh Gottheimer,2023-10-15,2023-09-22,MA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+22,Josh Gottheimer,2023-10-15,2023-09-22,AVGO,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+23,Josh Gottheimer,2023-10-15,2023-09-21,LLY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+24,Josh Gottheimer,2023-10-15,2023-09-18,INTA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+25,Josh Gottheimer,2023-10-15,2023-09-18,VBTX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+26,Josh Gottheimer,2023-10-15,2023-09-15,VCYT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+27,Josh Gottheimer,2023-10-15,2023-09-15,SHLS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+28,Josh Gottheimer,2023-10-15,2023-09-15,SGIOY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+29,Josh Gottheimer,2023-10-15,2023-09-15,VBTX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+30,Josh Gottheimer,2023-10-15,2023-09-15,FSLR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+31,Josh Gottheimer,2023-10-15,2023-09-15,VZ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+32,Josh Gottheimer,2023-10-15,2023-09-15,CYRX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+33,Josh Gottheimer,2023-10-15,2023-09-15,AZTA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+34,Josh Gottheimer,2023-10-15,2023-09-15,CSPCY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+35,Josh Gottheimer,2023-10-15,2023-09-15,D,Sale,"$15,001-$50,000",Representatives,15001.0,D
+36,Josh Gottheimer,2023-10-15,2023-09-15,NCLTY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+37,Josh Gottheimer,2023-10-15,2023-09-15,SLGN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+38,Josh Gottheimer,2023-10-15,2023-09-15,NVZMY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+39,Josh Gottheimer,2023-10-15,2023-09-15,FOXF,Sale,"$1,001-$15,000",Representatives,1001.0,D
+40,Josh Gottheimer,2023-10-15,2023-09-15,FANUY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+41,Josh Gottheimer,2023-10-15,2023-09-15,XNGSY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+42,Josh Gottheimer,2023-10-15,2023-09-15,ADYEY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+43,Josh Gottheimer,2023-10-15,2023-09-15,FIS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+44,Josh Gottheimer,2023-10-15,2023-09-15,GOOG,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+45,Josh Gottheimer,2023-10-15,2023-09-15,EXAS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+46,Josh Gottheimer,2023-10-15,2023-09-15,GMAB,Sale,"$1,001-$15,000",Representatives,1001.0,D
+47,Josh Gottheimer,2023-10-15,2023-09-15,IART,Sale,"$1,001-$15,000",Representatives,1001.0,D
+48,Josh Gottheimer,2023-10-15,2023-09-15,BCRX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+49,Josh Gottheimer,2023-10-15,2023-09-15,TWKS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+50,Josh Gottheimer,2023-10-15,2023-09-15,ALGT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+51,Josh Gottheimer,2023-10-15,2023-09-15,UTZ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+52,Josh Gottheimer,2023-10-15,2023-09-15,SHYF,Sale,"$1,001-$15,000",Representatives,1001.0,D
+53,Josh Gottheimer,2023-10-15,2023-09-15,ARQT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+54,Josh Gottheimer,2023-10-15,2023-09-15,PNGAY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+55,Josh Gottheimer,2023-10-15,2023-09-15,SMNNY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+56,Josh Gottheimer,2023-10-15,2023-09-15,PHR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+57,Josh Gottheimer,2023-10-15,2023-09-15,VIAV,Sale,"$1,001-$15,000",Representatives,1001.0,D
+58,Josh Gottheimer,2023-10-15,2023-09-15,MRNA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+59,Josh Gottheimer,2023-10-15,2023-09-15,CCI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+60,Josh Gottheimer,2023-10-15,2023-09-15,SBUX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+61,Josh Gottheimer,2023-10-15,2023-09-15,DAVA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+62,Josh Gottheimer,2023-10-15,2023-09-12,ATLKY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+63,Josh Gottheimer,2023-10-15,2023-09-12,FMX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+64,Josh Gottheimer,2023-10-15,2023-09-12,LLY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+65,Josh Gottheimer,2023-10-15,2023-09-12,DXCM,Sale,"$1,001-$15,000",Representatives,1001.0,D
+66,Josh Gottheimer,2023-10-15,2023-09-12,LRLCY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+67,Josh Gottheimer,2023-10-15,2023-09-11,NVDA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+68,Josh Gottheimer,2023-10-15,2023-09-07,MA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+69,Josh Gottheimer,2023-10-15,2023-09-06,RBC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+70,Pete Sessions,2023-10-13,2023-10-06,ARCC,Purchase,$569.25,Representatives,569.25,R
+71,Pete Sessions,2023-10-13,2023-10-06,WBD,Sale,$493.91,Representatives,493.91,R
+72,Kevin Hern,2023-10-13,2023-09-29,DVN,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+73,Kevin Hern,2023-10-13,2023-09-29,DVN,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+74,Kevin Hern,2023-10-13,2023-09-26,MMP,Exchange,"$50,001-$100,000",Representatives,50001.0,R
+75,Kevin Hern,2023-10-13,2023-09-26,MMP,Exchange,"$500,001",Representatives,500001.0,R
+76,Kevin Hern,2023-10-13,2023-09-25,WMB,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+77,Kevin Hern,2023-10-13,2023-09-25,MMP,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+78,Kevin Hern,2023-10-13,2023-09-21,PXD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+79,Kevin Hern,2023-10-13,2023-09-19,LIN,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+80,Kevin Hern,2023-10-13,2023-09-19,UNH,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+81,Kevin Hern,2023-10-13,2023-09-15,NEE,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+82,Kevin Hern,2023-10-13,2023-09-14,HD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+83,Kevin Hern,2023-10-13,2023-09-14,HD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+84,Kevin Hern,2023-10-13,2023-09-11,XOM,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+85,Kevin Hern,2023-10-13,2023-09-11,ROK,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+86,Kevin Hern,2023-10-13,2023-09-11,EMR,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+87,Kevin Hern,2023-10-13,2023-09-07,JNJ,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+88,Kevin Hern,2023-10-13,2023-09-07,RTX,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+89,Jared Moskowitz,2023-10-12,2023-09-27,TGT,Sale,"$1,001-$15,000",Representatives,1001.0, 
+90,Jared Moskowitz,2023-10-12,2023-09-27,CMI,Purchase,"$1,001-$15,000",Representatives,1001.0, 
+91,Jared Moskowitz,2023-10-12,2023-09-27,TGT,Sale,"$1,001-$15,000",Representatives,1001.0, 
+92,Jared Moskowitz,2023-10-12,2023-09-27,CMI,Purchase,"$1,001-$15,000",Representatives,1001.0, 
+93,C. Scott Franklin,2023-10-12,2023-09-11,PFE,Sale,"$1,001-$15,000",Representatives,1001.0,R
+94,C. Scott Franklin,2023-10-12,2023-09-11,HD,Sale,"$15,001-$50,000",Representatives,15001.0,R
+95,C. Scott Franklin,2023-10-12,2023-09-11,V,Sale,"$15,001-$50,000",Representatives,15001.0,R
+96,C. Scott Franklin,2023-10-12,2023-09-11,UNH,Sale,"$15,001-$50,000",Representatives,15001.0,R
+97,C. Scott Franklin,2023-10-12,2023-09-11,BRK.B,Sale,"$15,001-$50,000",Representatives,15001.0,R
+98,C. Scott Franklin,2023-10-12,2023-09-11,IJR,Sale,"$1,001-$15,000",Representatives,1001.0,R
+99,C. Scott Franklin,2023-10-12,2023-09-11,DFS,Sale,"$15,001-$50,000",Representatives,15001.0,R
+100,C. Scott Franklin,2023-10-12,2023-09-11,JPM,Sale,"$15,001-$50,000",Representatives,15001.0,R
+101,C. Scott Franklin,2023-10-12,2023-09-11,PEP,Sale,"$15,001-$50,000",Representatives,15001.0,R
+102,C. Scott Franklin,2023-10-12,2023-09-11,JNJ,Sale,"$15,001-$50,000",Representatives,15001.0,R
+103,C. Scott Franklin,2023-10-12,2023-09-11,PG,Sale,"$15,001-$50,000",Representatives,15001.0,R
+104,C. Scott Franklin,2023-10-12,2023-09-11,AAPL,Sale,"$15,001-$50,000",Representatives,15001.0,R
+105,C. Scott Franklin,2023-10-12,2023-09-11,MSFT,Sale,"$15,001-$50,000",Representatives,15001.0,R
+106,C. Scott Franklin,2023-10-12,2023-09-11,SBUX,Sale,"$15,001-$50,000",Representatives,15001.0,R
+107,C. Scott Franklin,2023-10-12,2023-09-11,GOOG,Sale,"$50,001-$100,000",Representatives,50001.0,R
+108,C. Scott Franklin,2023-10-12,2023-09-11,CSCO,Sale,"$50,001-$100,000",Representatives,50001.0,R
+109,C. Scott Franklin,2023-10-12,2023-09-11,NEE,Sale,"$15,001-$50,000",Representatives,15001.0,R
+110,C. Scott Franklin,2023-10-12,2023-09-11,UPS,Sale,"$15,001-$50,000",Representatives,15001.0,R
+111,C. Scott Franklin,2023-10-12,2023-09-11,MCD,Sale,"$15,001-$50,000",Representatives,15001.0,R
+112,C. Scott Franklin,2023-10-12,2023-09-11,WMT,Sale,"$15,001-$50,000",Representatives,15001.0,R
+113,C. Scott Franklin,2023-10-12,2023-09-11,MRK,Sale,"$15,001-$50,000",Representatives,15001.0,R
+114,C. Scott Franklin,2023-10-12,2023-09-11,QQQ,Sale,"$1,001-$15,000",Representatives,1001.0,R
+115,Rick Larsen,2023-10-11,2023-10-04,MDLZ,Purchase,"$1,001-$15,000",Representatives,1001.0, 
+116,Rick Larsen,2023-10-11,2023-10-04,MDLZ,Purchase,"$1,001-$15,000",Representatives,1001.0, 
+117,Susie Lee,2023-10-10,2023-09-13,RCL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+118,Lois Frankel,2023-10-10,2023-09-08,NSRGY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+119,Lois Frankel,2023-10-10,2023-09-08,WSO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+120,Lois Frankel,2023-10-10,2023-09-08,AON,Sale,"$15,001-$50,000",Representatives,15001.0,D
+121,Lois Frankel,2023-10-10,2023-09-08,HES,Sale,"$1,001-$15,000",Representatives,1001.0,D
+122,Lois Frankel,2023-10-10,2023-09-08,AXP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+123,Lois Frankel,2023-10-10,2023-09-08,XEL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+124,Lois Frankel,2023-10-10,2023-09-08,MAR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+125,Lois Frankel,2023-10-10,2023-09-08,HUBB,Sale,"$1,001-$15,000",Representatives,1001.0,D
+126,Lois Frankel,2023-10-10,2023-09-08,BWXT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+127,Lois Frankel,2023-10-10,2023-09-08,WAT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+128,Lois Frankel,2023-10-10,2023-09-08,ADSK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+129,Lois Frankel,2023-10-10,2023-09-08,VNT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+130,Lois Frankel,2023-10-10,2023-09-08,UNP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+131,Lois Frankel,2023-10-10,2023-09-08,AVY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+132,Lois Frankel,2023-10-10,2023-09-08,DD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+133,Lois Frankel,2023-10-10,2023-09-08,ETN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+134,Lois Frankel,2023-10-10,2023-09-08,CASY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+135,Lois Frankel,2023-10-10,2023-09-08,ETR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+136,Lois Frankel,2023-10-10,2023-09-08,FLR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+137,Lois Frankel,2023-10-10,2023-09-08,C,Sale,"$1,001-$15,000",Representatives,1001.0,D
+138,Lois Frankel,2023-10-10,2023-09-08,CRL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+139,Lois Frankel,2023-10-10,2023-09-08,PEP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+140,Lois Frankel,2023-10-10,2023-09-08,MCK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+141,Lois Frankel,2023-10-10,2023-09-08,AOS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+142,Lois Frankel,2023-10-10,2023-09-08,CI,Sale,"$15,001-$50,000",Representatives,15001.0,D
+143,Lois Frankel,2023-10-10,2023-09-08,ES,Sale,"$1,001-$15,000",Representatives,1001.0,D
+144,Lois Frankel,2023-10-10,2023-09-08,MCK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+145,Lois Frankel,2023-10-10,2023-09-08,IT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+146,Lois Frankel,2023-10-10,2023-09-08,TT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+147,Lois Frankel,2023-10-10,2023-09-08,ABBV,Sale,"$1,001-$15,000",Representatives,1001.0,D
+148,Lois Frankel,2023-10-10,2023-09-08,ARE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+149,Lois Frankel,2023-10-10,2023-09-08,WRB,Sale,"$1,001-$15,000",Representatives,1001.0,D
+150,Lois Frankel,2023-10-10,2023-09-08,ACN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+151,Lois Frankel,2023-10-10,2023-09-08,SUI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+152,Lois Frankel,2023-10-10,2023-09-08,TGT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+153,Lois Frankel,2023-10-10,2023-09-08,JNJ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+154,Lois Frankel,2023-10-10,2023-09-08,GD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+155,Lois Frankel,2023-10-10,2023-09-08,TMO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+156,Lois Frankel,2023-10-10,2023-09-08,LNT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+157,Lois Frankel,2023-10-10,2023-09-08,TEL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+158,Lois Frankel,2023-10-10,2023-09-08,PXD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+159,Lois Frankel,2023-10-10,2023-09-08,CBOE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+160,Lois Frankel,2023-10-10,2023-09-08,PFE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+161,Lois Frankel,2023-10-10,2023-09-08,NXPI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+162,Lois Frankel,2023-10-10,2023-09-08,PCAR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+163,Lois Frankel,2023-10-10,2023-09-08,NSA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+164,Lois Frankel,2023-10-10,2023-09-08,PLD,Sale,"$15,001-$50,000",Representatives,15001.0,D
+165,Lois Frankel,2023-10-10,2023-09-08,MS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+166,Lois Frankel,2023-10-10,2023-09-08,POR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+167,Lois Frankel,2023-10-10,2023-09-08,BIO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+168,Lois Frankel,2023-10-10,2023-09-08,BAH,Sale,"$1,001-$15,000",Representatives,1001.0,D
+169,Lois Frankel,2023-10-10,2023-09-08,MRK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+170,Lois Frankel,2023-10-10,2023-09-08,TXN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+171,Lois Frankel,2023-10-10,2023-09-08,PGR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+172,Lois Frankel,2023-10-10,2023-09-08,CB,Sale,"$1,001-$15,000",Representatives,1001.0,D
+173,Lois Frankel,2023-10-10,2023-09-08,MMC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+174,Lois Frankel,2023-10-10,2023-09-08,SSNC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+175,Lois Frankel,2023-10-10,2023-09-08,COP,Sale,"$15,001-$50,000",Representatives,15001.0,D
+176,Lois Frankel,2023-10-10,2023-09-08,HSY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+177,Lois Frankel,2023-10-10,2023-09-08,PNC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+178,Lois Frankel,2023-10-10,2023-09-08,SHW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+179,Lois Frankel,2023-10-10,2023-09-08,DORM,Sale,"$1,001-$15,000",Representatives,1001.0,D
+180,Lois Frankel,2023-10-10,2023-09-08,BSX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+181,Lois Frankel,2023-10-10,2023-09-08,NDAQ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+182,Lois Frankel,2023-10-10,2023-09-08,ITW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+183,Lois Frankel,2023-10-10,2023-09-08,NSC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+184,Lois Frankel,2023-10-10,2023-09-08,DUK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+185,Lois Frankel,2023-10-10,2023-09-08,EXPD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+186,Lois Frankel,2023-10-10,2023-09-08,D,Sale,"$1,001-$15,000",Representatives,1001.0,D
+187,Lois Frankel,2023-10-10,2023-09-08,RGLD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+188,Lois Frankel,2023-10-10,2023-09-08,BSX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+189,Lois Frankel,2023-10-10,2023-09-08,FANG,Sale,"$1,001-$15,000",Representatives,1001.0,D
+190,Lois Frankel,2023-10-10,2023-09-08,CMCSA,Sale,"$15,001-$50,000",Representatives,15001.0,D
+191,Lois Frankel,2023-10-10,2023-09-08,DEO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+192,Lois Frankel,2023-10-10,2023-09-08,NOC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+193,Lois Frankel,2023-10-10,2023-09-08,COLD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+194,Lois Frankel,2023-10-10,2023-09-08,LKQ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+195,Lois Frankel,2023-10-10,2023-09-08,LOW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+196,Lois Frankel,2023-10-10,2023-09-08,LBRDK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+197,Lois Frankel,2023-10-10,2023-09-08,LAMR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+198,Lois Frankel,2023-10-10,2023-09-08,SO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+199,Lois Frankel,2023-10-10,2023-09-08,KLAC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+200,Lois Frankel,2023-10-10,2023-09-08,MKL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+201,Lois Frankel,2023-10-10,2023-09-08,ULTA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+202,Lois Frankel,2023-10-10,2023-09-08,JPM,Sale,"$15,001-$50,000",Representatives,15001.0,D
+203,Lois Frankel,2023-10-10,2023-09-08,MTB,Sale,"$1,001-$15,000",Representatives,1001.0,D
+204,Lois Frankel,2023-10-10,2023-09-08,KVUE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+205,Lois Frankel,2023-10-10,2023-09-08,ADI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+206,Lois Frankel,2023-10-10,2023-09-08,HAL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+207,Lois Frankel,2023-10-10,2023-09-08,FAF,Sale,"$1,001-$15,000",Representatives,1001.0,D
+208,Lois Frankel,2023-10-10,2023-09-08,GL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+209,Lois Frankel,2023-10-10,2023-09-08,BR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+210,Lois Frankel,2023-10-10,2023-09-08,KKR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+211,Lois Frankel,2023-10-10,2023-09-07,PCAR,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+212,Lois Frankel,2023-10-10,2023-09-06,ABBV,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+213,Lois Frankel,2023-10-10,2023-09-06,PCAR,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+214,Lois Frankel,2023-10-10,2023-09-06,MRK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+215,Lois Frankel,2023-10-10,2023-09-06,JCI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+216,Lois Frankel,2023-10-10,2023-09-01,DG,Sale,"$1,001-$15,000",Representatives,1001.0,D
+217,Lois Frankel,2023-10-10,2023-08-31,JCI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+218,Lois Frankel,2023-10-10,2023-08-30,ABBV,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+219,Lois Frankel,2023-10-10,2023-08-30,JCI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+220,Max Miller,2023-10-08,2023-10-06,VO,Sale,"$1,001-$15,000",Representatives,1001.0, 
+221,Max Miller,2023-10-08,2023-10-06,VOO,Sale,"$15,001-$50,000",Representatives,15001.0, 
+222,Max Miller,2023-10-08,2023-10-06,JEPI,Sale,"$1,001-$15,000",Representatives,1001.0, 
+223,Virginia Foxx,2023-10-06,2023-09-22,AAM$A,Sale,"$15,001-$50,000",Representatives,15001.0,R
+224,Virginia Foxx,2023-10-06,2023-09-21,VGR,Sale,"$50,001-$100,000",Representatives,50001.0,R
+225,Virginia Foxx,2023-10-06,2023-09-21,HTGC,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+226,Virginia Foxx,2023-10-06,2023-09-19,DUK$A,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+227,Virginia Foxx,2023-10-06,2023-09-19,AAIC$B,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+228,Virginia Foxx,2023-10-06,2023-09-19,CRT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+229,Virginia Foxx,2023-10-06,2023-09-18,VGR,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+230,Virginia Foxx,2023-10-06,2023-09-18,GPP,Sale,"$15,001-$50,000",Representatives,15001.0,R
+231,Lloyd Doggett,2023-10-05,2023-09-14,HD,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+232,Lloyd Doggett,2023-10-05,2023-09-12,PPG,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+233,Lloyd Doggett,2023-10-05,2023-09-11,IBM,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+234,Lloyd Doggett,2023-10-05,2023-09-07,JNJ,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+235,John Curtis,2023-10-04,2023-09-13,ABT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+236,John Curtis,2023-10-04,2023-09-13,LLY,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+237,John Curtis,2023-10-04,2023-09-13,EMR,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+238,John Curtis,2023-10-04,2023-09-13,PANW,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+239,John Curtis,2023-10-04,2023-09-13,ADBE,Sale,"$1,001-$15,000",Representatives,1001.0,R
+240,John Curtis,2023-10-04,2023-09-13,UNP,Sale,"$1,001-$15,000",Representatives,1001.0,R
+241,John Curtis,2023-10-04,2023-09-13,WM,Sale,"$1,001-$15,000",Representatives,1001.0,R
+242,John Curtis,2023-10-04,2023-09-13,JNJ,Sale,"$1,001-$15,000",Representatives,1001.0,R
+243,Michael C. Burgess,2023-10-03,2023-09-25,BX,Sale,"$15,001-$50,000",Representatives,15001.0,R
+244,Michael C. Burgess,2023-10-03,2023-09-15,MSFT,Sale,"$15,001-$50,000",Representatives,15001.0,R
+245,Michael C. Burgess,2023-10-03,2023-09-13,MRK,Sale,"$1,001-$15,000",Representatives,1001.0,R
+246,Robert J. Wittman,2023-09-30,2023-08-17,PSX,Sale,"$1,001-$15,000",Representatives,1001.0,R
+247,Robert J. Wittman,2023-09-30,2023-07-31,PG,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+248,Robert J. Wittman,2023-09-30,2023-07-31,KMB,Sale,"$1,001-$15,000",Representatives,1001.0,R
+249,Robert J. Wittman,2023-09-30,2023-07-27,UNP,Sale,"$1,001-$15,000",Representatives,1001.0,R
+250,Robert J. Wittman,2023-09-30,2023-07-21,DG,Sale,"$1,001-$15,000",Representatives,1001.0,R
+251,Robert J. Wittman,2023-09-30,2023-07-21,ZTS,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+252,William R. Keating,2023-09-28,2023-09-21,CAT,Sale,$848.75,Representatives,848.75,D
+253,Morgan Mcgarvey,2023-09-26,2023-08-25,TWLO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+254,Pete Sessions,2023-09-23,2023-09-20,MSFT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+255,Pete Sessions,2023-09-23,2023-09-12,NVDA,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+256,Pete Sessions,2023-09-23,2023-09-01,AMLP,Sale,"$1,001-$15,000",Representatives,1001.0,R
+257,Thomas H. Kean Jr.,2023-09-18,2023-07-31,DHR,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+258,Daniel Goldman,2023-09-17,2023-08-03,SIGCY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+259,Daniel Goldman,2023-09-17,2023-08-03,WTKWY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+260,Josh Gottheimer,2023-09-16,2023-08-25,ETN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+261,Josh Gottheimer,2023-09-16,2023-08-25,NSC,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+262,Josh Gottheimer,2023-09-16,2023-08-24,TGT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+263,Josh Gottheimer,2023-09-16,2023-08-24,NSC,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+264,Josh Gottheimer,2023-09-16,2023-08-24,VZ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+265,Josh Gottheimer,2023-09-16,2023-08-22,MA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+266,Josh Gottheimer,2023-09-16,2023-08-22,EFX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+267,Josh Gottheimer,2023-09-16,2023-08-22,ASAZY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+268,Josh Gottheimer,2023-09-16,2023-08-22,SQ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+269,Josh Gottheimer,2023-09-16,2023-08-21,ADYEY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+270,Josh Gottheimer,2023-09-16,2023-08-21,REGN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+271,Josh Gottheimer,2023-09-16,2023-08-21,DXCM,Sale,"$1,001-$15,000",Representatives,1001.0,D
+272,Josh Gottheimer,2023-09-16,2023-08-21,TGT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+273,Josh Gottheimer,2023-09-16,2023-08-21,ASAZY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+274,Josh Gottheimer,2023-09-16,2023-08-21,FCX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+275,Josh Gottheimer,2023-09-16,2023-08-21,META,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+276,Josh Gottheimer,2023-09-16,2023-08-18,CHGCY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+277,Josh Gottheimer,2023-09-16,2023-08-18,LLY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+278,Josh Gottheimer,2023-09-16,2023-08-18,HSHCY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+279,Josh Gottheimer,2023-09-16,2023-08-18,DASTY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+280,Josh Gottheimer,2023-09-16,2023-08-14,GOOG,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+281,Josh Gottheimer,2023-09-16,2023-08-10,SHLS,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+282,Josh Gottheimer,2023-09-16,2023-08-10,NVDA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+283,Josh Gottheimer,2023-09-16,2023-08-10,SPXC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+284,Josh Gottheimer,2023-09-16,2023-08-10,FOXF,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+285,Josh Gottheimer,2023-09-16,2023-08-10,TPR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+286,Josh Gottheimer,2023-09-16,2023-08-07,AAPL,Sale,"$15,001-$50,000",Representatives,15001.0,D
+287,Josh Gottheimer,2023-09-16,2023-08-07,NFLX,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+288,Seth Moulton,2023-09-15,2023-08-18,ATVI,Sale,"$500,001",Representatives,500001.0,D
+289,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LLYVK,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+290,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LSXMA,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+291,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LSXMK,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+292,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LSXMA,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+293,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LSXMK,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+294,Thomas H. Kean Jr.,2023-09-15,2023-08-04,LLYVA,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+295,Daniel Meuser,2023-09-14,2023-08-14,NVDA,Sale,"$15,001-$50,000",Representatives,15001.0,R
+296,Daniel Meuser,2023-09-14,2023-08-14,NVDA,Sale,"$100,001-250,000",Representatives,100001.0,R
+297,Daniel Meuser,2023-09-14,2023-08-14,NVDA,Sale,"$15,001-$50,000",Representatives,15001.0,R
+298,Mark Warner,2023-09-12,2023-08-08,ROAD,Sale,"$250,001 - $500,000",Senate,250001.0,D
+299,Jonathan Jackson,2023-09-11,2023-08-31,WCN,Sale,"$15,001-$50,000",Representatives,15001.0, 
+300,Jonathan Jackson,2023-09-11,2023-08-31,TIMB,Purchase,"$15,001-$50,000",Representatives,15001.0, 
+301,Suzan K. Delbene,2023-09-11,2023-08-31,MSFT,Sale,"$500,001",Representatives,500001.0,D
+302,Suzan K. Delbene,2023-09-11,2023-08-30,MSFT,Sale,"$250,001-$1,000,000",Representatives,250001.0,D
+303,Jonathan Jackson,2023-09-11,2023-08-29,NEE,Sale,"$1,001-$15,000",Representatives,1001.0, 
+304,Jonathan Jackson,2023-09-11,2023-08-29,EME,Purchase,"$1,001-$15,000",Representatives,1001.0, 
+305,Richard W. Allen,2023-09-08,2023-08-31,SCHW$D,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+306,Lloyd Doggett,2023-09-08,2023-08-16,PG,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+307,John Boozman,2023-09-07,2023-08-29,FEP,Sale,"$15,001 - $50,000",Senate,15001.0,R
+308,John Boozman,2023-09-07,2023-08-29,BBEU,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+309,Kevin Hern,2023-09-07,2023-08-15,MMC,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+310,Kevin Hern,2023-09-07,2023-08-15,ACN,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+311,Kevin Hern,2023-09-07,2023-08-15,TXN,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+312,Kevin Hern,2023-09-07,2023-08-14,MMP,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+313,Kevin Hern,2023-09-07,2023-08-14,OKE,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+314,Earl Blumenauer,2023-09-06,2023-08-24,SYY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+315,Earl Blumenauer,2023-09-06,2023-08-23,SYY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+316,Michael C. Burgess,2023-09-06,2023-08-22,PRU,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+317,Michael C. Burgess,2023-09-06,2023-08-22,BBY,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+318,Michael C. Burgess,2023-09-06,2023-08-22,STLA,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+319,Earl Blumenauer,2023-09-06,2023-08-16,F,Sale,"$15,001-$50,000",Representatives,15001.0,D
+320,Earl Blumenauer,2023-09-06,2023-08-15,NWN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+321,Michael C. Burgess,2023-09-06,2023-08-14,GOOGL,Sale,"$15,001-$50,000",Representatives,15001.0,R
+322,Michael C. Burgess,2023-09-06,2023-08-14,AMZN,Sale,"$15,001-$50,000",Representatives,15001.0,R
+323,Michael C. Burgess,2023-09-06,2023-08-14,BRK.B,Sale,"$15,001-$50,000",Representatives,15001.0,R
+324,Michael C. Burgess,2023-09-06,2023-08-09,UPS,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+325,Michael C. Burgess,2023-09-06,2023-08-09,RY,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+326,Michael C. Burgess,2023-09-06,2023-08-09,BX,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+327,Michael C. Burgess,2023-09-06,2023-08-09,AMD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+328,Thomas R. Carper,2023-09-05,2023-08-29,SWKS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+329,Thomas R. Carper,2023-09-05,2023-08-29,CRWD,Sale,"$1,001 - $15,000",Senate,1001.0,D
+330,Thomas R. Carper,2023-09-05,2023-08-29,NEE,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+331,Thomas R. Carper,2023-09-05,2023-08-29,RMD,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+332,Thomas R. Carper,2023-09-05,2023-08-29,AQN,Sale,"$1,001 - $15,000",Senate,1001.0,D
+333,Thomas R. Carper,2023-09-05,2023-08-29,INOD,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+334,Thomas R. Carper,2023-09-05,2023-08-25,NTLA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+335,Thomas R. Carper,2023-09-05,2023-08-23,PSQ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+336,Thomas R. Carper,2023-09-05,2023-08-23,PSQ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+337,Thomas R. Carper,2023-09-05,2023-08-23,PSQ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+338,Thomas R. Carper,2023-09-05,2023-08-22,MPW,Sale,"$1,001 - $15,000",Senate,1001.0,D
+339,Thomas R. Carper,2023-09-05,2023-08-22,ROK,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+340,Thomas R. Carper,2023-09-05,2023-08-18,PSQ,Sale,"$1,001 - $15,000",Senate,1001.0,D
+341,Thomas R. Carper,2023-09-05,2023-08-18,PSQ,Sale,"$1,001 - $15,000",Senate,1001.0,D
+342,Thomas R. Carper,2023-09-05,2023-08-16,JHEM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+343,Thomas R. Carper,2023-09-05,2023-08-16,XCEM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+344,Thomas R. Carper,2023-09-05,2023-08-16,JHEM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+345,Thomas R. Carper,2023-09-05,2023-08-15,BAH,Sale,"$1,001 - $15,000",Senate,1001.0,D
+346,Thomas R. Carper,2023-09-05,2023-08-10,RMBS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+347,Thomas R. Carper,2023-09-05,2023-08-10,SOFI,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+348,Thomas R. Carper,2023-09-05,2023-08-04,FTNT,Sale,"$1,001 - $15,000",Senate,1001.0,D
+349,Pete Sessions,2023-09-05,2023-09-05,AI,Sale,$314.30,Representatives,314.3,R
+350,Pete Sessions,2023-09-05,2023-08-29,AGAE,Sale,"$1,000.00",Representatives,1000.0,R
+351,Virginia Foxx,2023-09-05,2023-08-29,TAK,Sale,"$15,001-$50,000",Representatives,15001.0,R
+352,Pete Sessions,2023-09-05,2023-08-21,MA,Sale,"$1,001-$15,000",Representatives,1001.0,R
+353,Pete Sessions,2023-09-05,2023-08-18,KO,Sale,"$1,001-$15,000",Representatives,1001.0,R
+354,Pete Sessions,2023-09-05,2023-08-18,DBRG,Sale,$189.48,Representatives,189.48,R
+355,Pete Sessions,2023-09-05,2023-08-18,IBM,Sale,"$1,001-$15,000",Representatives,1001.0,R
+356,Pete Sessions,2023-09-05,2023-08-18,WBD,Sale,$469.21,Representatives,469.21,R
+357,Virginia Foxx,2023-09-05,2023-08-16,ARLP,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+358,Michael C. Burgess,2023-09-05,2023-08-14,ABBV,Sale,"$15,001-$50,000",Representatives,15001.0,R
+359,Michael C. Burgess,2023-09-05,2023-08-09,CME,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+360,Michael C. Burgess,2023-09-05,2023-08-09,UPS,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+361,Michael C. Burgess,2023-09-05,2023-08-09,CC,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+362,Virginia Foxx,2023-09-05,2023-08-02,T,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+363,Lois Frankel,2023-08-26,2023-08-10,WTW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+364,Lois Frankel,2023-08-26,2023-08-10,KVUE,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+365,Lois Frankel,2023-08-26,2023-08-10,JNJ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+366,Lois Frankel,2023-08-26,2023-08-09,WTW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+367,Lois Frankel,2023-08-26,2023-08-09,IFF,Sale,"$1,001-$15,000",Representatives,1001.0,D
+368,Lois Frankel,2023-08-26,2023-08-09,SHV,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+369,Lois Frankel,2023-08-26,2023-08-07,NSP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+370,Lois Frankel,2023-08-26,2023-08-07,SHV,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+371,Lois Frankel,2023-08-26,2023-08-04,SEDG,Sale,"$1,001-$15,000",Representatives,1001.0,D
+372,Lois Frankel,2023-08-26,2023-08-04,LBRDK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+373,Lois Frankel,2023-08-26,2023-08-04,NSP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+374,Lois Frankel,2023-08-26,2023-08-04,FLR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+375,Lois Frankel,2023-08-26,2023-08-03,PLD,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+376,Lois Frankel,2023-08-26,2023-08-03,KVUE,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+377,Lois Frankel,2023-08-26,2023-08-02,TXN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+378,Lois Frankel,2023-08-26,2023-08-02,MRK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+379,Lois Frankel,2023-08-26,2023-08-02,KVUE,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+380,Lois Frankel,2023-08-26,2023-08-02,PLD,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+381,Lois Frankel,2023-08-26,2023-07-26,TGT,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+382,Lois Frankel,2023-08-26,2023-07-26,MS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+383,Gerald E. Connolly,2023-08-25,2023-08-15,D,Sale,"$1,001-$15,000",Representatives,1001.0,D
+384,Gerald E. Connolly,2023-08-25,2023-08-15,SAIC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+385,Gerald E. Connolly,2023-08-25,2023-08-15,LDOS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+386,Michael Patrick Guest,2023-08-23,2023-08-09,PR,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+387,Michael Patrick Guest,2023-08-23,2023-08-07,GD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+388,Michael Patrick Guest,2023-08-23,2023-08-07,ABNB,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+389,Michael Patrick Guest,2023-08-23,2023-08-07,JPM,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+390,Michael Patrick Guest,2023-08-23,2023-08-07,ABBV,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+391,Michael Patrick Guest,2023-08-23,2023-08-07,JNJ,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+392,Michael Patrick Guest,2023-08-23,2023-08-07,ELF,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+393,Michael Patrick Guest,2023-08-23,2023-08-07,WMT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+394,Michael Patrick Guest,2023-08-23,2023-08-07,VLO,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+395,Michael Patrick Guest,2023-08-23,2023-08-07,XOM,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+396,Michael Patrick Guest,2023-08-23,2023-08-07,LNC,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+397,Michael Patrick Guest,2023-08-23,2023-08-07,AMZN,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+398,Michael Patrick Guest,2023-08-23,2023-08-07,TSLA,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+399,Michael Patrick Guest,2023-08-23,2023-08-07,CVX,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+400,Michael Patrick Guest,2023-08-23,2023-08-07,NVDA,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+401,Michael Patrick Guest,2023-08-23,2023-08-07,TSCO,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+402,Michael Patrick Guest,2023-08-23,2023-08-07,ORCL,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+403,Michael Patrick Guest,2023-08-23,2023-08-07,SWX,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+404,Michael Patrick Guest,2023-08-23,2023-08-07,NEE,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+405,Michael Patrick Guest,2023-08-23,2023-08-07,MSFT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+406,Michael Patrick Guest,2023-08-23,2023-08-07,MCD,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+407,Michael Patrick Guest,2023-08-23,2023-08-07,MDT,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+408,Michael Patrick Guest,2023-08-23,2023-08-07,LOW,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+409,Michael Patrick Guest,2023-08-23,2023-08-07,ALL,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+410,Michael Patrick Guest,2023-08-23,2023-08-07,UBER,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+411,Michael Patrick Guest,2023-08-23,2023-08-07,AAPL,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+412,Michael Patrick Guest,2023-08-23,2023-08-04,CHRD,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+413,Michael Patrick Guest,2023-08-23,2023-08-01,KMI,Sale,"$15,001-$50,000",Representatives,15001.0,R
+414,Michael Patrick Guest,2023-08-23,2023-08-01,WBD,Sale,"$1,001-$15,000",Representatives,1001.0,R
+415,Michael Patrick Guest,2023-08-23,2023-08-01,T,Sale,"$1,001-$15,000",Representatives,1001.0,R
+416,Michael Patrick Guest,2023-08-23,2023-08-01,T,Sale,"$1,001-$15,000",Representatives,1001.0,R
+417,Victoria Spartz,2023-08-22,2023-08-03,SPG,Purchase,"$15,001-$50,000",Representatives,15001.0,R
+418,Josh Gottheimer,2023-08-21,2023-07-27,ABBV,Sale,"$1,001-$15,000",Representatives,1001.0,D
+419,Josh Gottheimer,2023-08-21,2023-07-25,FCX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+420,Josh Gottheimer,2023-08-21,2023-07-24,AMD,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+421,Josh Gottheimer,2023-08-21,2023-07-21,HLN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+422,Josh Gottheimer,2023-08-21,2023-07-20,KUBTY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+423,Josh Gottheimer,2023-08-21,2023-07-20,HLN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+424,Josh Gottheimer,2023-08-21,2023-07-20,GMAB,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+425,Josh Gottheimer,2023-08-21,2023-07-20,AAGIY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+426,Josh Gottheimer,2023-08-21,2023-07-19,SAP,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+427,Josh Gottheimer,2023-08-21,2023-07-19,KUBTY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+428,Josh Gottheimer,2023-08-21,2023-07-19,HLN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+429,Josh Gottheimer,2023-08-21,2023-07-19,GMAB,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+430,Josh Gottheimer,2023-08-21,2023-07-19,AAGIY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+431,Josh Gottheimer,2023-08-21,2023-07-19,ADYEY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+432,Josh Gottheimer,2023-08-21,2023-07-18,SBUX,Sale,"$1,001-$15,000",Representatives,1001.0,D
+433,Josh Gottheimer,2023-08-21,2023-07-18,TSLA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+434,Josh Gottheimer,2023-08-21,2023-07-18,UBER,Sale,"$1,001-$15,000",Representatives,1001.0,D
+435,Josh Gottheimer,2023-08-21,2023-07-18,TXN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+436,Josh Gottheimer,2023-08-21,2023-07-18,MSFT,Sale,"$1,001-$15,000",Representatives,1001.0,D
+437,Josh Gottheimer,2023-08-21,2023-07-18,NVDA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+438,Josh Gottheimer,2023-08-21,2023-07-18,ORCL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+439,Josh Gottheimer,2023-08-21,2023-07-18,META,Sale,"$1,001-$15,000",Representatives,1001.0,D
+440,Josh Gottheimer,2023-08-21,2023-07-18,IFNNY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+441,Josh Gottheimer,2023-08-21,2023-07-18,LAD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+442,Josh Gottheimer,2023-08-21,2023-07-18,HLIO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+443,Josh Gottheimer,2023-08-21,2023-07-18,LOW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+444,Josh Gottheimer,2023-08-21,2023-07-18,HCA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+445,Josh Gottheimer,2023-08-21,2023-07-18,MCK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+446,Josh Gottheimer,2023-08-21,2023-07-18,SCHW,Sale,"$1,001-$15,000",Representatives,1001.0,D
+447,Josh Gottheimer,2023-08-21,2023-07-18,MELI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+448,Josh Gottheimer,2023-08-21,2023-07-18,ADYEY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+449,Josh Gottheimer,2023-08-21,2023-07-18,GOOG,Sale,"$1,001-$15,000",Representatives,1001.0,D
+450,Josh Gottheimer,2023-08-21,2023-07-18,AAPL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+451,Josh Gottheimer,2023-08-21,2023-07-18,ATLKY,Sale,"$1,001-$15,000",Representatives,1001.0,D
+452,Josh Gottheimer,2023-08-21,2023-07-17,TXN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+453,Josh Gottheimer,2023-08-21,2023-07-14,SRPT,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+454,Josh Gottheimer,2023-08-21,2023-07-14,SPXC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+455,Josh Gottheimer,2023-08-21,2023-07-14,PTEN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+456,Josh Gottheimer,2023-08-21,2023-07-14,HMN,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+457,Josh Gottheimer,2023-08-21,2023-07-14,HSHCY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+458,Josh Gottheimer,2023-08-21,2023-07-14,D,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+459,Josh Gottheimer,2023-08-21,2023-07-14,FSLR,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+460,Josh Gottheimer,2023-08-21,2023-07-14,CSPCY,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+461,Josh Gottheimer,2023-08-21,2023-07-14,GTLS,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+462,Josh Gottheimer,2023-08-21,2023-07-14,AORT,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+463,Josh Gottheimer,2023-08-21,2023-07-14,AZTA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+464,Josh Gottheimer,2023-08-21,2023-07-13,TSLA,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+465,Josh Gottheimer,2023-08-21,2023-07-13,SPOT,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+466,Josh Gottheimer,2023-08-21,2023-07-13,META,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+467,Pete Sessions,2023-08-17,2023-08-15,ARCC,Purchase,$155.92,Representatives,155.92,R
+468,Pete Sessions,2023-08-17,2023-07-28,KD,Sale,$163.20,Representatives,163.2,R
+469,Kevin Hern,2023-08-16,2023-07-31,JPM,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+470,Tommy Tuberville,2023-08-14,2023-07-27,CCL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+471,Tommy Tuberville,2023-08-14,2023-07-25,MMM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+472,Tommy Tuberville,2023-08-14,2023-07-25,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+473,Tommy Tuberville,2023-08-14,2023-07-25,UAA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+474,Tommy Tuberville,2023-08-14,2023-07-25,HUMA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+475,Tommy Tuberville,2023-08-14,2023-07-25,FGBI,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+476,Tommy Tuberville,2023-08-14,2023-07-25,WBA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+477,Tommy Tuberville,2023-08-14,2023-07-25,HUMA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+478,Tommy Tuberville,2023-08-14,2023-07-25,KEY,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+479,Tommy Tuberville,2023-08-14,2023-07-25,HUMA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+480,Tommy Tuberville,2023-08-14,2023-07-25,VZ,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+481,Tommy Tuberville,2023-08-14,2023-07-25,PFE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+482,Tommy Tuberville,2023-08-14,2023-07-25,FGBI,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+483,Tommy Tuberville,2023-08-14,2023-07-24,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+484,Tommy Tuberville,2023-08-14,2023-07-24,CLF,Purchase,"$50,001 - $100,000",Senate,50001.0,R
+485,Tommy Tuberville,2023-08-14,2023-07-19,TXN,Sale,"$1,001 - $15,000",Senate,1001.0,R
+486,Tommy Tuberville,2023-08-14,2023-07-13,LPX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+487,Daniel Goldman,2023-08-13,2023-07-19,NOC,Sale,"$15,001-$50,000",Representatives,15001.0,D
+488,Thomas H. Kean Jr.,2023-08-13,2023-07-19,BATRK,Exchange,"$1,001-$15,000",Representatives,1001.0,R
+489,Daniel Goldman,2023-08-13,2023-07-14,COIN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+490,Daniel Goldman,2023-08-13,2023-07-14,KO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+491,Daniel Goldman,2023-08-13,2023-07-14,T,Sale,"$1,001-$15,000",Representatives,1001.0,D
+492,Daniel Goldman,2023-08-13,2023-07-14,TMUS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+493,Daniel Goldman,2023-08-13,2023-07-14,TEL,Sale,"$1,001-$15,000",Representatives,1001.0,D
+494,Daniel Goldman,2023-08-13,2023-07-14,THO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+495,Daniel Goldman,2023-08-13,2023-07-14,TSN,Sale,"$1,001-$15,000",Representatives,1001.0,D
+496,Daniel Goldman,2023-08-13,2023-07-14,VTR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+497,Daniel Goldman,2023-08-13,2023-07-14,PLD,Sale,"$1,001-$15,000",Representatives,1001.0,D
+498,Daniel Goldman,2023-08-13,2023-07-14,ABBV,Sale,"$1,001-$15,000",Representatives,1001.0,D
+499,Daniel Goldman,2023-08-13,2023-07-14,MRK,Sale,"$1,001-$15,000",Representatives,1001.0,D
+500,Daniel Goldman,2023-08-13,2023-07-14,JNJ,Sale,"$1,001-$15,000",Representatives,1001.0,D
+501,Daniel Goldman,2023-08-13,2023-07-14,APTV,Sale,"$1,001-$15,000",Representatives,1001.0,D
+502,Daniel Goldman,2023-08-13,2023-07-14,F,Sale,"$1,001-$15,000",Representatives,1001.0,D
+503,Daniel Goldman,2023-08-13,2023-07-14,MO,Sale,"$1,001-$15,000",Representatives,1001.0,D
+504,Daniel Goldman,2023-08-13,2023-07-14,DAR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+505,Daniel Goldman,2023-08-13,2023-07-14,ZTS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+506,Daniel Goldman,2023-08-13,2023-07-12,URI,Sale,"$1,001-$15,000",Representatives,1001.0,D
+507,Daniel Goldman,2023-08-13,2023-07-12,UNH,Sale,"$15,001-$50,000",Representatives,15001.0,D
+508,Daniel Goldman,2023-08-13,2023-07-12,USB,Sale,"$15,001-$50,000",Representatives,15001.0,D
+509,Daniel Goldman,2023-08-13,2023-07-12,UDR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+510,Daniel Goldman,2023-08-13,2023-07-12,EQIX,Sale,"$50,001-$100,000",Representatives,50001.0,D
+511,Daniel Goldman,2023-08-13,2023-07-12,FERG,Sale,"$1,001-$15,000",Representatives,1001.0,D
+512,Daniel Goldman,2023-08-13,2023-07-12,UPS,Sale,"$1,001-$15,000",Representatives,1001.0,D
+513,Daniel Goldman,2023-08-13,2023-07-12,UE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+514,Daniel Goldman,2023-08-13,2023-07-12,KO,Sale,"$15,001-$50,000",Representatives,15001.0,D
+515,Daniel Goldman,2023-08-13,2023-07-12,ADC,Sale,"$1,001-$15,000",Representatives,1001.0,D
+516,Daniel Goldman,2023-08-13,2023-07-12,TMUS,Sale,"$15,001-$50,000",Representatives,15001.0,D
+517,Daniel Goldman,2023-08-13,2023-07-12,EQR,Sale,"$50,001-$100,000",Representatives,50001.0,D
+518,Daniel Goldman,2023-08-13,2023-07-12,TRIP,Sale,"$1,001-$15,000",Representatives,1001.0,D
+519,Jonathan Jackson,2023-08-09,2023-07-31,LIN,Purchase,"$15,001-$50,000",Representatives,15001.0, 
+520,Jonathan Jackson,2023-08-09,2023-07-18,NEE,Sale,"$15,001-$50,000",Representatives,15001.0, 
+521,Jonathan Jackson,2023-08-09,2023-07-18,LIN,Purchase,"$15,001-$50,000",Representatives,15001.0, 
+522,Mark Dr Green,2023-08-08,2023-08-04,ET,Sale,"$250,001-$1,000,000",Representatives,250001.0,R
+523,Mark Dr Green,2023-08-08,2023-08-04,NGL,Purchase,"$250,001-$1,000,000",Representatives,250001.0,R
+524,Michael C. Burgess,2023-08-08,2023-07-21,CI,Sale,"$15,001-$50,000",Representatives,15001.0,R
+525,Michael C. Burgess,2023-08-08,2023-07-21,PSX,Sale,"$15,001-$50,000",Representatives,15001.0,R
+526,Michael C. Burgess,2023-08-08,2023-07-17,BX,Sale,"$15,001-$50,000",Representatives,15001.0,R
+527,Michael C. Burgess,2023-08-08,2023-07-14,BX,Sale,"$15,001-$50,000",Representatives,15001.0,R
+528,Robert E. Latta,2023-08-05,2023-07-20,FMBA,Purchase,"$1,001-$15,000",Representatives,1001.0,R
+529,Earl Blumenauer,2023-08-04,2023-07-27,ICE,Sale,"$1,001-$15,000",Representatives,1001.0,D
+530,Thomas R. Carper,2023-08-02,2023-07-28,PSQ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+531,Thomas R. Carper,2023-08-02,2023-07-13,HDGE,Sale,"$15,001 - $50,000",Senate,15001.0,D
+532,Thomas R. Carper,2023-08-02,2023-07-13,HDGE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+533,Thomas R. Carper,2023-08-02,2023-07-13,PSQ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+534,Thomas R. Carper,2023-08-02,2023-07-10,VZ,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+535,Thomas R. Carper,2023-08-02,2023-07-10,FNF,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+536,William R. Keating,2023-07-31,2023-07-20,EA,Sale,"$1,001-$15,000",Representatives,1001.0,D
+537,William R. Keating,2023-07-31,2023-07-20,ISRG,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+538,Lois Frankel,2023-07-28,2023-07-14,LKQ,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+539,Lois Frankel,2023-07-28,2023-07-14,WRB,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+540,Lois Frankel,2023-07-28,2023-07-13,DUK,Purchase,"$1,001-$15,000",Representatives,1001.0,D
+541,Lois Frankel,2023-07-28,2023-07-13,MAR,Sale,"$1,001-$15,000",Representatives,1001.0,D
+542,Pete Sessions,2023-07-27,2023-07-24,BUI,Sale,"$15,001-$50,000",Representatives,15001.0,R
+543,Pete Sessions,2023-07-27,2023-07-21,CRM,Sale,"$1,001-$15,000",Representatives,1001.0,R
+544,Mark Dr Green,2023-07-24,2023-07-18,ET,Sale,"$100,001-250,000",Representatives,100001.0,R
+545,Mark Dr Green,2023-07-18,2023-07-14,ET,Sale,"$100,001-250,000",Representatives,100001.0,R
+546,Shelley Moore Capito,2023-07-17,2023-06-22,MSFT,Sale,"$1,001 - $15,000",Senate,1001.0,R
+547,Shelley Moore Capito,2023-07-17,2023-06-14,NKE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+548,Shelley Moore Capito,2023-07-17,2023-06-14,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+549,Shelley Moore Capito,2023-07-17,2023-06-14,AAPL,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+550,Shelley Moore Capito,2023-07-17,2023-06-12,AMGN,Sale,"$1,001 - $15,000",Senate,1001.0,R
+551,Shelley Moore Capito,2023-07-17,2023-06-12,MSFT,Sale,"$15,001 - $50,000",Senate,15001.0,R
+552,Shelley Moore Capito,2023-07-17,2023-06-12,CB,Sale,"$1,001 - $15,000",Senate,1001.0,R
+553,Shelley Moore Capito,2023-07-17,2023-06-07,WMT,Sale,"$1,001 - $15,000",Senate,1001.0,R
+554,Pete Sessions,2023-07-15,2023-07-14,ARCC,Purchase,$240.80,Representatives,240.8,R
+555,Tommy Tuberville,2023-07-14,2023-06-29,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+556,Tommy Tuberville,2023-07-14,2023-06-20,CLF,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+557,Tommy Tuberville,2023-07-14,2023-06-20,MSFT,Sale,"$250,001 - $500,000",Senate,250001.0,R
+558,Tommy Tuberville,2023-07-14,2023-06-20,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+559,Tommy Tuberville,2023-07-14,2023-06-14,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+560,Tommy Tuberville,2023-07-14,2023-06-14,X,Sale,"$15,001 - $50,000",Senate,15001.0,R
+561,Tommy Tuberville,2023-07-14,2023-06-13,WBA,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+562,Tommy Tuberville,2023-07-14,2023-06-13,CCL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+563,Tommy Tuberville,2023-07-14,2023-06-13,CCL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+564,Tommy Tuberville,2023-07-14,2023-06-13,UAA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+565,Tommy Tuberville,2023-07-14,2023-06-13,TSLA,Sale,"$1,001 - $15,000",Senate,1001.0,R
+566,Tommy Tuberville,2023-07-14,2023-06-12,FGBI,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+567,Tommy Tuberville,2023-07-14,2023-06-12,CVX,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+568,Tommy Tuberville,2023-07-14,2023-06-12,FGBI,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+569,Tommy Tuberville,2023-07-14,2023-06-12,PFE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+570,Tommy Tuberville,2023-07-14,2023-06-12,DVA,Sale,"$1,001 - $15,000",Senate,1001.0,R
+571,Tommy Tuberville,2023-07-14,2023-06-12,FITB,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+572,Tommy Tuberville,2023-07-14,2023-06-12,KEY,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+573,Tommy Tuberville,2023-07-14,2023-06-12,CFG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+574,Tommy Tuberville,2023-07-14,2023-06-12,WBA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+575,Tommy Tuberville,2023-07-14,2023-06-09,COF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+576,Tommy Tuberville,2023-07-14,2023-06-08,QCOM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+577,Tommy Tuberville,2023-07-14,2023-06-08,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+578,Tommy Tuberville,2023-07-14,2023-06-06,QCOM,Purchase,"$50,001 - $100,000",Senate,50001.0,R
+579,Tommy Tuberville,2023-07-14,2023-06-05,CVX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+580,Tommy Tuberville,2023-07-14,2023-06-05,QCOM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+581,Tommy Tuberville,2023-07-14,2023-06-02,QCOM,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+582,Tommy Tuberville,2023-07-14,2023-06-01,QCOM,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+583,Tommy Tuberville,2023-07-14,2023-06-01,CLF,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+584,Gary Peters,2023-06-30,2023-06-06,IFF,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+585,Thomas R. Carper,2023-06-30,2023-06-20,ETN,Sale,"$1,001 - $15,000",Senate,1001.0,D
+586,Thomas R. Carper,2023-06-30,2023-06-20,TT,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+587,Thomas R. Carper,2023-06-30,2023-05-25,NVDA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+588,Thomas R. Carper,2023-06-30,2023-05-22,BAH,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+589,Thomas R. Carper,2023-06-30,2023-05-22,DIS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+590,Thomas R. Carper,2023-06-30,2023-05-22,NTLA,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+591,Thomas R. Carper,2023-06-30,2023-05-22,KEYS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+592,Thomas R. Carper,2023-06-30,2023-05-09,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,D
+593,Angus King,2023-06-20,2023-05-19,MMM,Sale,"$1,001 - $15,000",Senate,1001.0,I
+594,John Hickenlooper,2023-06-15,2023-06-09,SIRI,Sale,"$15,001 - $50,000",Senate,15001.0,D
+595,John Hickenlooper,2023-06-15,2023-05-26,CMG,Sale,"$100,001 - $250,000",Senate,100001.0,D
+596,John Hickenlooper,2023-06-15,2023-05-10,VZ,Sale,"$100,001 - $250,000",Senate,100001.0,D
+597,John Hickenlooper,2023-06-15,2023-05-10,AMT,Sale,"$100,001 - $250,000",Senate,100001.0,D
+598,John Hickenlooper,2023-06-15,2023-05-10,INTC,Sale,"$100,001 - $250,000",Senate,100001.0,D
+599,Tommy Tuberville,2023-06-15,2023-05-25,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+600,Tommy Tuberville,2023-06-15,2023-05-25,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+601,Tommy Tuberville,2023-06-15,2023-05-25,CLF,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+602,Tommy Tuberville,2023-06-15,2023-05-25,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+603,Tommy Tuberville,2023-06-15,2023-05-24,V,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+604,Tommy Tuberville,2023-06-15,2023-05-24,V,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+605,Tommy Tuberville,2023-06-15,2023-05-24,CLF,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+606,Tommy Tuberville,2023-06-15,2023-05-23,PYPL,Sale,"$15,001 - $50,000",Senate,15001.0,R
+607,Tommy Tuberville,2023-06-15,2023-05-23,PYPL,Sale,"$50,001 - $100,000",Senate,50001.0,R
+608,Tommy Tuberville,2023-06-15,2023-05-23,PYPL,Sale,"$15,001 - $50,000",Senate,15001.0,R
+609,Tommy Tuberville,2023-06-15,2023-05-23,PYPL,Sale,"$100,001 - $250,000",Senate,100001.0,R
+610,Tommy Tuberville,2023-06-15,2023-05-23,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+611,Tommy Tuberville,2023-06-15,2023-05-22,OXY,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+612,Tommy Tuberville,2023-06-15,2023-05-22,OXY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+613,Tommy Tuberville,2023-06-15,2023-05-19,OXY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+614,Tommy Tuberville,2023-06-15,2023-05-19,AAPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+615,Tommy Tuberville,2023-06-15,2023-05-19,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+616,Tommy Tuberville,2023-06-15,2023-05-19,OXY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+617,Tommy Tuberville,2023-06-15,2023-05-18,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+618,Tommy Tuberville,2023-06-15,2023-05-17,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+619,Tommy Tuberville,2023-06-15,2023-05-17,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+620,Tommy Tuberville,2023-06-15,2023-05-17,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+621,Tommy Tuberville,2023-06-15,2023-05-17,F,Sale,"$1,001 - $15,000",Senate,1001.0,R
+622,Tommy Tuberville,2023-06-15,2023-05-17,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+623,Tommy Tuberville,2023-06-15,2023-05-11,PYPL,Purchase,"$250,001 - $500,000",Senate,250001.0,R
+624,Tommy Tuberville,2023-06-15,2023-05-10,PYPL,Purchase,"$250,001 - $500,000",Senate,250001.0,R
+625,Tommy Tuberville,2023-06-15,2023-05-08,CFG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+626,Tommy Tuberville,2023-06-15,2023-05-08,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+627,Tommy Tuberville,2023-06-15,2023-05-08,KEY,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+628,Tommy Tuberville,2023-06-15,2023-05-08,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+629,Tommy Tuberville,2023-06-15,2023-05-08,WBA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+630,Tommy Tuberville,2023-06-15,2023-05-08,FITB,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+631,Tommy Tuberville,2023-06-15,2023-05-08,GOLD,Sale,"$1,001 - $15,000",Senate,1001.0,R
+632,Tommy Tuberville,2023-06-15,2023-05-08,RF,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+633,Tommy Tuberville,2023-06-15,2023-05-08,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+634,Tommy Tuberville,2023-06-15,2023-05-08,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+635,Tommy Tuberville,2023-06-15,2023-05-08,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+636,Tommy Tuberville,2023-06-15,2023-05-08,NU,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+637,Tommy Tuberville,2023-06-15,2023-05-08,FGBI,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+638,Tommy Tuberville,2023-06-15,2023-05-08,QCOM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+639,Tommy Tuberville,2023-06-15,2023-05-08,GOLD,Sale,"$1,001 - $15,000",Senate,1001.0,R
+640,Tommy Tuberville,2023-06-15,2023-05-08,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+641,Shelley Moore Capito,2023-06-14,2023-05-10,BMY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+642,Shelley Moore Capito,2023-06-14,2023-05-10,XOM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+643,Shelley Moore Capito,2023-06-14,2023-05-10,C,Sale,"$1,001 - $15,000",Senate,1001.0,R
+644,A. Mitchell Jr. McConnell,2023-06-14,2023-06-05,WFC,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+645,Sheldon Whitehouse,2023-05-17,2023-04-18,ESS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+646,Sheldon Whitehouse,2023-05-17,2023-04-18,ESS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+647,John Hickenlooper,2023-05-15,2023-05-01,CMG,Sale,"$100,001 - $250,000",Senate,100001.0,D
+648,John Hickenlooper,2023-05-15,2023-04-28,BABA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+649,John Hickenlooper,2023-05-15,2023-04-28,PTON,Sale,"$1,001 - $15,000",Senate,1001.0,D
+650,John Hickenlooper,2023-05-15,2023-04-28,CCCS,Sale,"$15,001 - $50,000",Senate,15001.0,D
+651,John Hickenlooper,2023-05-15,2023-04-28,CMCSA,Sale,"$15,001 - $50,000",Senate,15001.0,D
+652,John Hickenlooper,2023-05-15,2023-04-28,TTD,Sale,"$15,001 - $50,000",Senate,15001.0,D
+653,John Hickenlooper,2023-05-15,2023-04-28,DIS,Sale,"$15,001 - $50,000",Senate,15001.0,D
+654,John Hickenlooper,2023-05-15,2023-04-28,AMZN,Sale,"$15,001 - $50,000",Senate,15001.0,D
+655,John Hickenlooper,2023-05-15,2023-04-28,PINS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+656,John Hickenlooper,2023-05-15,2023-04-28,SNAP,Sale,"$1,001 - $15,000",Senate,1001.0,D
+657,John Hickenlooper,2023-05-15,2023-04-12,CARG,Sale,"$1,001 - $15,000",Senate,1001.0,D
+658,John Hickenlooper,2023-05-15,2023-04-12,BBY,Sale,"$1,001 - $15,000",Senate,1001.0,D
+659,Shelley Moore Capito,2023-05-15,2023-04-04,DUK,Sale,"$15,001 - $50,000",Senate,15001.0,R
+660,Shelley Moore Capito,2023-05-15,2023-04-04,UPS,Sale,"$1,001 - $15,000",Senate,1001.0,R
+661,Shelley Moore Capito,2023-05-15,2023-04-04,MCD,Sale,"$1,001 - $15,000",Senate,1001.0,R
+662,Tommy Tuberville,2023-05-11,2023-04-28,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+663,Tommy Tuberville,2023-05-11,2023-04-28,F,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+664,Tommy Tuberville,2023-05-11,2023-04-28,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+665,Tommy Tuberville,2023-05-11,2023-04-28,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+666,Tommy Tuberville,2023-05-11,2023-04-28,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+667,Tommy Tuberville,2023-05-11,2023-04-28,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+668,Tommy Tuberville,2023-05-11,2023-04-27,F,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+669,Tommy Tuberville,2023-05-11,2023-04-26,F,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+670,Tommy Tuberville,2023-05-11,2023-04-26,ATVI,Sale,"$100,001 - $250,000",Senate,100001.0,R
+671,Tommy Tuberville,2023-05-11,2023-04-24,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+672,Tommy Tuberville,2023-05-11,2023-04-24,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+673,Tommy Tuberville,2023-05-11,2023-04-24,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+674,Tommy Tuberville,2023-05-11,2023-04-24,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+675,Tommy Tuberville,2023-05-11,2023-04-24,X,Sale,"$100,001 - $250,000",Senate,100001.0,R
+676,Tommy Tuberville,2023-05-11,2023-04-24,CLF,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+677,Tommy Tuberville,2023-05-11,2023-04-18,OXY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+678,Tommy Tuberville,2023-05-11,2023-04-14,MRO,Sale,"$1,001 - $15,000",Senate,1001.0,R
+679,Tommy Tuberville,2023-05-11,2023-04-14,MMM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+680,Tommy Tuberville,2023-05-11,2023-04-14,KMB,Sale,"$1,001 - $15,000",Senate,1001.0,R
+681,Tommy Tuberville,2023-05-11,2023-04-10,HPQ,Sale,"$1,001 - $15,000",Senate,1001.0,R
+682,Tommy Tuberville,2023-05-11,2023-04-10,PARA,Sale,"$1,001 - $15,000",Senate,1001.0,R
+683,Tommy Tuberville,2023-05-11,2023-04-10,MDLZ,Sale,"$1,001 - $15,000",Senate,1001.0,R
+684,Tommy Tuberville,2023-05-11,2023-04-10,KR,Sale,"$1,001 - $15,000",Senate,1001.0,R
+685,Tommy Tuberville,2023-05-11,2023-04-04,TSLA,Sale,"$15,001 - $50,000",Senate,15001.0,R
+686,Tommy Tuberville,2023-05-11,2023-04-03,VZ,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+687,Tommy Tuberville,2023-05-11,2023-04-03,SKY,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+688,Tommy Tuberville,2023-05-11,2023-04-03,RRC,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+689,Tommy Tuberville,2023-05-11,2023-04-03,GNTX,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+690,Tommy Tuberville,2023-05-11,2023-04-03,TXN,Sale,"$15,001 - $50,000",Senate,15001.0,R
+691,Tommy Tuberville,2023-05-11,2023-04-03,ALLE,Sale,"$1,001 - $15,000",Senate,1001.0,R
+692,Tommy Tuberville,2023-05-11,2023-04-03,PAM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+693,Tommy Tuberville,2023-05-11,2023-04-03,MTD,Sale,"$1,001 - $15,000",Senate,1001.0,R
+694,Tommy Tuberville,2023-05-11,2023-04-03,VCTR,Sale,"$1,001 - $15,000",Senate,1001.0,R
+695,Tommy Tuberville,2023-05-11,2023-04-03,RH,Sale,"$1,001 - $15,000",Senate,1001.0,R
+696,Tommy Tuberville,2023-05-11,2023-04-03,EW,Sale,"$1,001 - $15,000",Senate,1001.0,R
+697,Tommy Tuberville,2023-05-11,2023-04-03,NSC,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+698,Tommy Tuberville,2023-05-11,2023-04-03,PHM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+699,Tommy Tuberville,2023-05-11,2023-04-03,TMO,Sale,"$1,001 - $15,000",Senate,1001.0,R
+700,Tommy Tuberville,2023-05-11,2023-04-03,APH,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+701,Tommy Tuberville,2023-05-11,2023-04-03,GRMN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+702,Tommy Tuberville,2023-05-11,2023-04-03,MPWR,Sale,"$1,001 - $15,000",Senate,1001.0,R
+703,Tommy Tuberville,2023-05-11,2023-04-03,GSK,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+704,Tommy Tuberville,2023-05-11,2023-04-03,ABBV,Sale,"$1,001 - $15,000",Senate,1001.0,R
+705,Tommy Tuberville,2023-05-11,2023-04-03,CSCO,Sale,"$15,001 - $50,000",Senate,15001.0,R
+706,Tommy Tuberville,2023-05-11,2023-04-03,ANET,Sale,"$15,001 - $50,000",Senate,15001.0,R
+707,Tommy Tuberville,2023-05-11,2023-04-03,REGN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+708,Tommy Tuberville,2023-05-11,2023-04-03,FLT,Sale,"$1,001 - $15,000",Senate,1001.0,R
+709,Tommy Tuberville,2023-05-11,2023-04-03,DIOD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+710,Tommy Tuberville,2023-05-11,2023-04-03,CBSH,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+711,Tommy Tuberville,2023-05-11,2023-04-03,CRUS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+712,Tommy Tuberville,2023-05-11,2023-04-03,AVGO,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+713,Tommy Tuberville,2023-05-11,2023-04-03,MMC,Sale,"$1,001 - $15,000",Senate,1001.0,R
+714,Tommy Tuberville,2023-05-11,2023-04-03,META,Sale,"$1,001 - $15,000",Senate,1001.0,R
+715,Tommy Tuberville,2023-05-11,2023-04-03,TSLA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+716,Tommy Tuberville,2023-05-11,2023-04-03,MMM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+717,Tommy Tuberville,2023-05-11,2023-04-03,MSFT,Sale,"$15,001 - $50,000",Senate,15001.0,R
+718,Tommy Tuberville,2023-05-11,2023-04-03,IDXX,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+719,Tommy Tuberville,2023-05-11,2023-04-03,CROX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+720,Tommy Tuberville,2023-05-11,2023-04-03,NVDA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+721,Tommy Tuberville,2023-05-11,2023-04-03,MCO,Sale,"$1,001 - $15,000",Senate,1001.0,R
+722,Tommy Tuberville,2023-05-11,2023-04-03,MPWR,Sale,"$1,001 - $15,000",Senate,1001.0,R
+723,Tommy Tuberville,2023-05-11,2023-04-03,MKSI,Sale,"$1,001 - $15,000",Senate,1001.0,R
+724,Tommy Tuberville,2023-05-11,2023-04-03,NDSN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+725,Tommy Tuberville,2023-05-11,2023-04-03,GFI,Sale,"$1,001 - $15,000",Senate,1001.0,R
+726,Tommy Tuberville,2023-05-11,2023-04-03,TREX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+727,Tommy Tuberville,2023-05-11,2023-04-03,SSD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+728,Tommy Tuberville,2023-05-11,2023-04-03,QSR,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+729,Tommy Tuberville,2023-05-11,2023-04-03,LMST,Sale,"$1,001 - $15,000",Senate,1001.0,R
+730,Tommy Tuberville,2023-05-11,2023-04-03,ETSY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+731,Tommy Tuberville,2023-05-11,2023-04-03,ADSK,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+732,Tommy Tuberville,2023-05-11,2023-04-03,AMT,Sale,"$1,001 - $15,000",Senate,1001.0,R
+733,Tommy Tuberville,2023-05-11,2023-04-03,XP,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+734,Tommy Tuberville,2023-05-11,2023-04-03,ITW,Sale,"$1,001 - $15,000",Senate,1001.0,R
+735,Tommy Tuberville,2023-05-11,2023-04-03,SCI,Sale,"$1,001 - $15,000",Senate,1001.0,R
+736,Tommy Tuberville,2023-05-11,2023-04-03,DQ,Sale,"$1,001 - $15,000",Senate,1001.0,R
+737,Tammy Duckworth,2023-05-01,2023-04-11,ITW,Sale,"$15,001 - $50,000",Senate,15001.0,D
+738,Thomas R. Carper,2023-05-01,2023-04-26,NVS,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+739,Thomas R. Carper,2023-05-01,2023-04-26,TMO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+740,Thomas R. Carper,2023-05-01,2023-04-20,FIMKX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+741,Thomas R. Carper,2023-05-01,2023-04-17,LGI,Sale,"$1,001 - $15,000",Senate,1001.0,D
+742,Thomas R. Carper,2023-05-01,2023-04-17,VSH,Sale,"$1,001 - $15,000",Senate,1001.0,D
+743,Thomas R. Carper,2023-05-01,2023-04-17,DIOD,Sale,"$1,001 - $15,000",Senate,1001.0,D
+744,Thomas R. Carper,2023-05-01,2023-04-17,AVNT,Sale,"$1,001 - $15,000",Senate,1001.0,D
+745,Thomas R. Carper,2023-05-01,2023-04-17,RTH,Sale,"$1,001 - $15,000",Senate,1001.0,D
+746,Thomas R. Carper,2023-05-01,2023-04-17,SNDR,Sale,"$1,001 - $15,000",Senate,1001.0,D
+747,Thomas R. Carper,2023-05-01,2023-04-17,ALGM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+748,Thomas R. Carper,2023-05-01,2023-04-17,DGRS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+749,Thomas R. Carper,2023-05-01,2023-04-17,JHMM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+750,Thomas R. Carper,2023-05-01,2023-04-17,SBIO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+751,Thomas R. Carper,2023-05-01,2023-04-17,MRVL,Sale,"$1,001 - $15,000",Senate,1001.0,D
+752,Thomas R. Carper,2023-05-01,2023-04-17,FCPIX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+753,Thomas R. Carper,2023-05-01,2023-04-17,FDN,Sale,"$1,001 - $15,000",Senate,1001.0,D
+754,Thomas R. Carper,2023-05-01,2023-04-17,BRKR,Sale,"$1,001 - $15,000",Senate,1001.0,D
+755,Thomas R. Carper,2023-05-01,2023-04-13,CSCO,Sale,"$15,001 - $50,000",Senate,15001.0,D
+756,Thomas R. Carper,2023-05-01,2023-04-13,UAA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+757,Thomas R. Carper,2023-05-01,2023-04-13,UA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+758,Dan Sullivan,2023-04-26,2023-03-17,WFC,Sale,"$1,001 - $15,000",Senate,1001.0,R
+759,Tina Smith,2023-04-19,2023-04-05,MDT,Sale,"$100,001 - $250,000",Senate,100001.0,D
+760,Tina Smith,2023-04-19,2023-04-05,CSII,Sale,"$50,001 - $100,000",Senate,50001.0,D
+761,Tina Smith,2023-04-19,2023-04-05,CSII,Sale,"$50,001 - $100,000",Senate,50001.0,D
+762,John Hickenlooper,2023-04-13,2023-03-20,FWONK,Sale,"$50,001 - $100,000",Senate,50001.0,D
+763,John Hickenlooper,2023-04-13,2023-03-20,LSXMK,Sale,"$15,001 - $50,000",Senate,15001.0,D
+764,John Hickenlooper,2023-04-13,2023-03-20,BATRK,Sale,"$15,001 - $50,000",Senate,15001.0,D
+765,John Hickenlooper,2023-04-13,2023-03-20,LBRDK,Sale,"$15,001 - $50,000",Senate,15001.0,D
+766,John Hickenlooper,2023-04-13,2023-03-20,LTRPA,Sale,"$1,001 - $15,000",Senate,1001.0,D
+767,John Hickenlooper,2023-04-13,2023-03-15,NOK,Sale,"$1,001 - $15,000",Senate,1001.0,D
+768,John Hickenlooper,2023-04-13,2023-03-08,FWONK,Sale,"$500,001 - $1,000,000",Senate,500001.0,D
+769,John Hickenlooper,2023-04-13,2023-03-08,FWONK,Purchase,"$250,001 - $500,000",Senate,250001.0,D
+770,Angus King,2023-04-13,2023-03-20,USB,Sale,"$1,001 - $15,000",Senate,1001.0,I
+771,Gary Peters,2023-04-12,2023-03-14,O,Purchase,"$15,001 - $50,000",Senate,15001.0,D
+772,Gary Peters,2023-04-12,2023-03-14,TFC,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+773,Gary Peters,2023-04-12,2023-03-13,NUE,Sale,"$50,001 - $100,000",Senate,50001.0,D
+774,Tommy Tuberville,2023-04-12,2023-03-21,CLF,Purchase,"$50,001 - $100,000",Senate,50001.0,R
+775,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+776,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+777,Tommy Tuberville,2023-04-12,2023-03-21,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+778,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+779,Tommy Tuberville,2023-04-12,2023-03-21,TSM,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+780,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+781,Tommy Tuberville,2023-04-12,2023-03-21,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+782,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$15,001 - $50,000",Senate,15001.0,R
+783,Tommy Tuberville,2023-04-12,2023-03-21,X,Sale,"$15,001 - $50,000",Senate,15001.0,R
+784,Tommy Tuberville,2023-04-12,2023-03-20,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+785,Tommy Tuberville,2023-04-12,2023-03-10,KMB,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+786,Tommy Tuberville,2023-04-12,2023-03-06,BMO,Sale,"$1,001 - $15,000",Senate,1001.0,R
+787,Tommy Tuberville,2023-04-12,2023-03-03,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+788,Thomas R. Carper,2023-04-03,2023-03-07,AAPL,Sale,"$15,001 - $50,000",Senate,15001.0,D
+789,A. Mitchell Jr. McConnell,2023-03-28,2023-03-03,WFC,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+790,Dan Sullivan,2023-03-16,2023-02-21,CHD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+791,Dan Sullivan,2023-03-16,2023-02-10,SCHW,Sale,"$1,001 - $15,000",Senate,1001.0,R
+792,Dan Sullivan,2023-03-16,2023-02-10,CHD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+793,Dan Sullivan,2023-03-16,2023-02-10,GOOG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+794,Thomas R. Carper,2023-03-01,2023-02-28,QCOM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+795,Thomas R. Carper,2023-03-01,2023-02-21,WM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+796,Thomas R. Carper,2023-03-01,2023-02-21,BSM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+797,Thomas R. Carper,2023-03-01,2023-02-21,SBUX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+798,Thomas R. Carper,2023-03-01,2023-02-21,AGX,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+799,Thomas R. Carper,2023-03-01,2023-02-21,VFH,Sale,"$1,001 - $15,000",Senate,1001.0,D
+800,Thomas R. Carper,2023-03-01,2023-02-21,SQM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+801,Thomas R. Carper,2023-03-01,2023-02-21,KBE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+802,Thomas R. Carper,2023-03-01,2023-02-21,TSM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+803,Thomas R. Carper,2023-03-01,2023-02-21,HASI,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+804,Thomas R. Carper,2023-03-01,2023-02-21,FPI,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+805,Thomas R. Carper,2023-03-01,2023-02-21,MOS,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+806,Thomas R. Carper,2023-03-01,2023-02-21,RTH,Sale,"$1,001 - $15,000",Senate,1001.0,D
+807,Thomas R. Carper,2023-03-01,2023-02-21,APO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+808,Thomas R. Carper,2023-03-01,2023-02-21,IRM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+809,Thomas R. Carper,2023-03-01,2023-02-21,RTX,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+810,Thomas R. Carper,2023-03-01,2023-02-15,IVV,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+811,Thomas R. Carper,2023-03-01,2023-02-15,LDP,Sale,"$1,001 - $15,000",Senate,1001.0,D
+812,Thomas R. Carper,2023-03-01,2023-02-15,JHMM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+813,Thomas R. Carper,2023-03-01,2023-02-15,VHT,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+814,Thomas R. Carper,2023-03-01,2023-02-15,LUBYX,Sale,"$15,001 - $50,000",Senate,15001.0,D
+815,Thomas R. Carper,2023-03-01,2023-02-15,MBXIX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+816,Thomas R. Carper,2023-03-01,2023-02-15,IJR,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+817,Thomas R. Carper,2023-03-01,2023-02-15,GNR,Sale,"$1,001 - $15,000",Senate,1001.0,D
+818,Thomas R. Carper,2023-03-01,2023-02-15,ABYIX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+819,Thomas R. Carper,2023-03-01,2023-02-15,SBIO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+820,Thomas R. Carper,2023-03-01,2023-02-15,CDL,Sale,"$1,001 - $15,000",Senate,1001.0,D
+821,Thomas R. Carper,2023-03-01,2023-02-15,SPGP,Sale,"$1,001 - $15,000",Senate,1001.0,D
+822,Thomas R. Carper,2023-03-01,2023-02-15,IWD,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+823,Tommy Tuberville,2023-02-14,2023-01-23,GOLD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+824,Tommy Tuberville,2023-02-14,2023-01-18,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+825,Tommy Tuberville,2023-02-14,2023-01-18,CLF,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+826,Tommy Tuberville,2023-02-14,2023-01-18,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+827,Tommy Tuberville,2023-02-14,2023-01-13,UAA,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+828,Tommy Tuberville,2023-02-14,2023-01-12,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+829,Tommy Tuberville,2023-02-14,2023-01-11,TXN,Sale,"$1,001 - $15,000",Senate,1001.0,R
+830,Tommy Tuberville,2023-02-14,2023-01-11,AAPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+831,Tommy Tuberville,2023-02-14,2023-01-11,V,Sale,"$1,001 - $15,000",Senate,1001.0,R
+832,Tommy Tuberville,2023-02-14,2023-01-11,KO,Sale,"$1,001 - $15,000",Senate,1001.0,R
+833,Tommy Tuberville,2023-02-14,2023-01-05,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+834,Tommy Tuberville,2023-02-14,2023-01-05,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+835,Tommy Tuberville,2023-02-14,2023-01-05,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+836,Tommy Tuberville,2023-02-14,2023-01-05,X,Sale,"$15,001 - $50,000",Senate,15001.0,R
+837,Tommy Tuberville,2023-02-14,2023-01-05,X,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+838,Tommy Tuberville,2023-02-14,2023-01-05,X,Sale,"$50,001 - $100,000",Senate,50001.0,R
+839,Tommy Tuberville,2023-02-14,2023-01-05,CLF,Sale,"$15,001 - $50,000",Senate,15001.0,R
+840,Tommy Tuberville,2023-02-14,2023-01-05,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+841,Tommy Tuberville,2023-02-14,2023-01-05,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+842,Tommy Tuberville,2023-02-14,2023-01-05,CLF,Sale,"$1,001 - $15,000",Senate,1001.0,R
+843,Dan Sullivan,2023-02-13,2023-01-10,ULTA,Sale,"$1,001 - $15,000",Senate,1001.0,R
+844,Dan Sullivan,2023-02-13,2023-01-10,JPM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+845,Dan Sullivan,2023-02-13,2023-01-10,PXD,Sale,"$1,001 - $15,000",Senate,1001.0,R
+846,Dan Sullivan,2023-02-13,2023-01-10,ALGN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+847,Dan Sullivan,2023-02-13,2023-01-10,AMZN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+848,Dan Sullivan,2023-02-13,2023-01-10,CVS,Sale,"$1,001 - $15,000",Senate,1001.0,R
+849,Dan Sullivan,2023-02-13,2023-01-10,ZTS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+850,Dan Sullivan,2023-02-13,2023-01-10,BMY,Sale,"$1,001 - $15,000",Senate,1001.0,R
+851,Dan Sullivan,2023-02-13,2023-01-10,BKNG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+852,Thomas R. Carper,2023-02-02,2023-01-31,RIO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+853,Thomas R. Carper,2023-02-02,2023-01-18,FPI,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+854,Thomas R. Carper,2023-02-02,2023-01-13,AQN,Sale,"$1,001 - $15,000",Senate,1001.0,D
+855,Thomas R. Carper,2023-02-02,2023-01-11,CVS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+856,Thomas R. Carper,2023-02-02,2023-01-11,BHP,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+857,Thomas R. Carper,2023-02-02,2023-01-11,TU,Sale,"$1,001 - $15,000",Senate,1001.0,D
+858,Thomas R. Carper,2023-02-02,2023-01-11,HOLX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+859,Thomas R. Carper,2023-02-02,2023-01-11,MCD,Sale,"$1,001 - $15,000",Senate,1001.0,D
+860,Thomas R. Carper,2023-02-02,2023-01-11,MOO,Sale,"$1,001 - $15,000",Senate,1001.0,D
+861,Thomas R. Carper,2023-02-02,2023-01-11,ATKR,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+862,Thomas R. Carper,2023-02-02,2023-01-11,SRVR,Sale,"$1,001 - $15,000",Senate,1001.0,D
+863,Thomas R. Carper,2023-02-02,2023-01-11,EQNR,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+864,Thomas R. Carper,2023-02-02,2023-01-11,AXS,Sale,"$1,001 - $15,000",Senate,1001.0,D
+865,Thomas R. Carper,2023-02-02,2023-01-11,CME,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+866,Thomas R. Carper,2023-02-02,2023-01-11,DLR,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+867,Thomas R. Carper,2023-02-02,2023-01-11,SAND,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+868,Thomas R. Carper,2023-02-02,2023-01-11,RMD,Sale,"$1,001 - $15,000",Senate,1001.0,D
+869,Thomas R. Carper,2023-02-02,2023-01-11,AMT,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+870,Thomas R. Carper,2023-02-02,2023-01-11,BSM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+871,Thomas R. Carper,2023-02-02,2023-01-11,URA,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+872,Thomas R. Carper,2023-02-02,2023-01-11,FLNG,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+873,Thomas R. Carper,2023-02-02,2023-01-04,MGM,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+874,Thomas R. Carper,2023-02-02,2023-01-04,MAXR,Sale,"$1,001 - $15,000",Senate,1001.0,D
+875,Angus King,2023-01-18,2022-12-21,EA,Purchase,"$1,001 - $15,000",Senate,1001.0,I
+876,Angus King,2023-01-18,2022-12-19,ADBE,Sale,"$1,001 - $15,000",Senate,1001.0,I
+877,Shelley Moore Capito,2023-01-17,2022-12-15,VFC,Sale,"$1,001 - $15,000",Senate,1001.0,R
+878,Maria Cantwell,2023-01-13,2022-12-28,RNWK,Sale,"$15,001 - $50,000",Senate,15001.0,D
+879,Tommy Tuberville,2023-01-13,2022-12-23,GOLD,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+880,Tommy Tuberville,2023-01-13,2022-12-19,NU,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+881,Tommy Tuberville,2023-01-13,2022-12-15,DIS,Sale,"$15,001 - $50,000",Senate,15001.0,R
+882,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+883,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+884,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+885,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$15,001 - $50,000",Senate,15001.0,R
+886,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$100,001 - $250,000",Senate,100001.0,R
+887,Tommy Tuberville,2023-01-13,2022-12-09,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+888,Tommy Tuberville,2023-01-13,2022-12-09,CLX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+889,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$50,001 - $100,000",Senate,50001.0,R
+890,Tommy Tuberville,2023-01-13,2022-12-09,PG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+891,Tommy Tuberville,2023-01-13,2022-12-09,PYPL,Sale,"$100,001 - $250,000",Senate,100001.0,R
+892,Tommy Tuberville,2023-01-13,2022-12-09,KMB,Sale,"$1,001 - $15,000",Senate,1001.0,R
+893,Tommy Tuberville,2023-01-13,2022-12-08,PYPL,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+894,Tommy Tuberville,2023-01-13,2022-12-06,GOLD,Purchase,"$50,001 - $100,000",Senate,50001.0,R
+895,Tommy Tuberville,2023-01-13,2022-12-05,PYPL,Purchase,"$250,001 - $500,000",Senate,250001.0,R
+896,Tommy Tuberville,2023-01-13,2022-12-02,QCOM,Sale,"$15,001 - $50,000",Senate,15001.0,R
+897,Tommy Tuberville,2023-01-13,2022-12-02,QCOM,Sale,"$50,001 - $100,000",Senate,50001.0,R
+898,Tommy Tuberville,2023-01-13,2022-12-01,GOLD,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+899,Tommy Tuberville,2023-01-13,2022-12-01,QCOM,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+900,Jacky Rosen,2023-01-11,2023-01-03,GE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+901,Jacky Rosen,2023-01-11,2023-01-03,GE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+902,Jacky Rosen,2023-01-11,2023-01-03,GE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+903,Jacky Rosen,2023-01-11,2023-01-03,GE,Sale,"$1,001 - $15,000",Senate,1001.0,D
+904,Gary Peters,2023-01-10,2022-12-12,WBD,Sale,"$1,001 - $15,000",Senate,1001.0,D
+905,Susan M. Collins,2023-01-10,2022-12-20,AKAM,Sale,"$15,001 - $50,000",Senate,15001.0,R
+906,Sheldon Whitehouse,2022-12-30,2022-11-29,C,Sale,"$1,001 - $15,000",Senate,1001.0,D
+907,Sheldon Whitehouse,2022-12-30,2022-11-29,C,Sale,"$1,001 - $15,000",Senate,1001.0,D
+908,A. Mitchell Jr. McConnell,2022-12-29,2022-12-05,WFC,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+909,A. Mitchell Jr. McConnell,2022-12-29,2022-11-29,KR,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+910,John Hickenlooper,2022-12-22,2022-12-14,FWONK,Purchase,"$50,001 - $100,000",Senate,50001.0,D
+911,John Hickenlooper,2022-12-22,2022-12-05,LSXMK,Purchase,"$100,001 - $250,000",Senate,100001.0,D
+912,John Hickenlooper,2022-12-22,2022-12-05,LSXMK,Sale,"$250,001 - $500,000",Senate,250001.0,D
+913,John Hickenlooper,2022-12-22,2022-11-29,LBRDK,Purchase,"$50,001 - $100,000",Senate,50001.0,D
+914,John Hickenlooper,2022-12-22,2022-11-29,LBRDK,Sale,"$50,001 - $100,000",Senate,50001.0,D
+915,Dan Sullivan,2022-12-21,2022-11-30,SYK,Sale,"$1,001 - $15,000",Senate,1001.0,R
+916,Dan Sullivan,2022-12-21,2022-11-30,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+917,Dan Sullivan,2022-12-21,2022-11-30,GOOG,Sale,"$1,001 - $15,000",Senate,1001.0,R
+918,Dan Sullivan,2022-12-21,2022-11-30,META,Sale,"$1,001 - $15,000",Senate,1001.0,R
+919,Dan Sullivan,2022-12-21,2022-11-30,ADBE,Sale,"$1,001 - $15,000",Senate,1001.0,R
+920,Dan Sullivan,2022-12-21,2022-11-30,MDT,Sale,"$1,001 - $15,000",Senate,1001.0,R
+921,Dan Sullivan,2022-12-21,2022-11-30,BAX,Sale,"$1,001 - $15,000",Senate,1001.0,R
+922,Dan Sullivan,2022-12-21,2022-11-30,RPM,Sale,"$15,001 - $50,000",Senate,15001.0,R
+923,Dan Sullivan,2022-12-21,2022-11-30,MLM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+924,Dan Sullivan,2022-12-21,2022-11-30,FFIV,Sale,"$1,001 - $15,000",Senate,1001.0,R
+925,Dan Sullivan,2022-12-21,2022-11-30,CMCSA,Sale,"$1,001 - $15,000",Senate,1001.0,R
+926,Dan Sullivan,2022-12-21,2022-11-30,ELAN,Sale,"$1,001 - $15,000",Senate,1001.0,R
+927,Dan Sullivan,2022-12-21,2022-11-30,MSFT,Purchase,"$15,001 - $50,000",Senate,15001.0,R
+928,Dan Sullivan,2022-12-21,2022-11-30,LRCX,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+929,Dan Sullivan,2022-12-21,2022-11-30,ZTS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+930,Dan Sullivan,2022-12-21,2022-11-30,TJX,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+931,Dan Sullivan,2022-12-21,2022-11-30,TMO,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+932,Dan Sullivan,2022-12-21,2022-11-22,NVDA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+933,Dan Sullivan,2022-12-21,2022-11-22,AMZN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+934,Dan Sullivan,2022-12-21,2022-11-22,DIS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+935,Dan Sullivan,2022-12-21,2022-11-22,DIS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+936,Dan Sullivan,2022-12-21,2022-11-22,MSFT,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+937,Dan Sullivan,2022-12-21,2022-11-22,AAPL,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+938,Dan Sullivan,2022-12-21,2022-11-22,ADBE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+939,Dan Sullivan,2022-12-21,2022-11-22,NVDA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+940,Dan Sullivan,2022-12-21,2022-11-22,GOOG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+941,Dan Sullivan,2022-12-21,2022-11-22,MSFT,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+942,Dan Sullivan,2022-12-21,2022-11-22,META,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+943,Dan Sullivan,2022-12-21,2022-11-22,GOOG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+944,Dan Sullivan,2022-12-21,2022-11-22,AMZN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+945,Dan Sullivan,2022-12-21,2022-11-22,ADBE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+946,Dan Sullivan,2022-12-21,2022-11-22,META,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+947,Dan Sullivan,2022-12-21,2022-11-22,META,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+948,Dan Sullivan,2022-12-21,2022-11-22,AMZN,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+949,Dan Sullivan,2022-12-21,2022-11-22,AAPL,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+950,Dan Sullivan,2022-12-21,2022-11-22,DIS,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+951,Dan Sullivan,2022-12-21,2022-11-22,ADBE,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+952,Dan Sullivan,2022-12-21,2022-11-22,NVDA,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+953,Dan Sullivan,2022-12-21,2022-11-22,MSFT,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+954,Dan Sullivan,2022-12-21,2022-11-22,GOOG,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+955,Dan Sullivan,2022-12-21,2022-11-22,AAPL,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+956,Tommy Tuberville,2022-12-14,2022-11-23,MSFT,Purchase,"$1,001 - $15,000",Senate,1001.0,R
+957,Tommy Tuberville,2022-12-14,2022-11-23,TSM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+958,Tommy Tuberville,2022-12-14,2022-11-23,TSM,Sale,"$1,001 - $15,000",Senate,1001.0,R
+959,Tommy Tuberville,2022-12-14,2022-11-23,MSFT,Sale,"$15,001 - $50,000",Senate,15001.0,R
+960,Tommy Tuberville,2022-12-14,2022-11-22,INTC,Sale,"$15,001 - $50,000",Senate,15001.0,R
+961,Tommy Tuberville,2022-12-14,2022-11-22,F,Sale,"$100,001 - $250,000",Senate,100001.0,R
+962,Tommy Tuberville,2022-12-14,2022-11-22,MSFT,Sale,"$100,001 - $250,000",Senate,100001.0,R
+963,Tommy Tuberville,2022-12-14,2022-11-17,F,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+964,Tommy Tuberville,2022-12-14,2022-11-09,INTC,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+965,Tommy Tuberville,2022-12-14,2022-11-08,PYPL,Sale,"$100,001 - $250,000",Senate,100001.0,R
+966,Tommy Tuberville,2022-12-14,2022-11-08,PYPL,Sale,"$50,001 - $100,000",Senate,50001.0,R
+967,Tommy Tuberville,2022-12-14,2022-11-08,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+968,Tommy Tuberville,2022-12-14,2022-11-08,ATVI,Purchase,"$100,001 - $250,000",Senate,100001.0,R
+969,Tommy Tuberville,2022-12-14,2022-11-08,PYPL,Sale,"$1,001 - $15,000",Senate,1001.0,R
+970,Tommy Tuberville,2022-12-14,2022-11-08,X,Sale,"$1,001 - $15,000",Senate,1001.0,R
+971,Ron Wyden,2022-12-11,2022-11-11,IRBT,Sale,"$15,001 - $50,000",Senate,15001.0,D
+972,Ron Wyden,2022-12-11,2022-11-11,MMM,Sale,"$1,001 - $15,000",Senate,1001.0,D
+973,Ron Wyden,2022-12-11,2022-11-11,SQ,Sale,"$15,001 - $50,000",Senate,15001.0,D
+974,Ron Wyden,2022-12-11,2022-11-11,STX,Sale,"$15,001 - $50,000",Senate,15001.0,D
+975,Ron Wyden,2022-12-11,2022-11-11,BALL,Sale,"$15,001 - $50,000",Senate,15001.0,D
+976,Ron Wyden,2022-12-11,2022-11-11,WDAY,Sale,"$1,001 - $15,000",Senate,1001.0,D
+977,Ron Wyden,2022-12-11,2022-11-11,FDX,Sale,"$50,001 - $100,000",Senate,50001.0,D
+978,Ron Wyden,2022-12-11,2022-11-11,PYPL,Sale,"$100,001 - $250,000",Senate,100001.0,D
+979,Ron Wyden,2022-12-11,2022-11-11,META,Sale,"$50,001 - $100,000",Senate,50001.0,D
+980,Ron Wyden,2022-12-11,2022-11-11,MTCH,Sale,"$15,001 - $50,000",Senate,15001.0,D
+981,Ron Wyden,2022-12-11,2022-11-11,COUP,Sale,"$15,001 - $50,000",Senate,15001.0,D
+982,Ron Wyden,2022-12-11,2022-11-11,NFLX,Sale,"$50,001 - $100,000",Senate,50001.0,D
+983,Ron Wyden,2022-12-11,2022-11-11,DIS,Sale,"$50,001 - $100,000",Senate,50001.0,D
+984,Thomas R. Carper,2022-12-09,2022-11-29,WIW,Sale,"$1,001 - $15,000",Senate,1001.0,D
+985,Thomas R. Carper,2022-12-09,2022-11-29,GBIL,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+986,Thomas R. Carper,2022-12-09,2022-11-29,WIW,Sale,"$1,001 - $15,000",Senate,1001.0,D
+987,Thomas R. Carper,2022-12-09,2022-11-29,GBIL,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+988,Thomas R. Carper,2022-12-09,2022-11-29,WIW,Sale,"$15,001 - $50,000",Senate,15001.0,D
+989,Thomas R. Carper,2022-12-09,2022-11-15,GBIL,Purchase,"$15,001 - $50,000",Senate,15001.0,D
+990,Thomas R. Carper,2022-12-09,2022-11-08,LUBYX,Sale,"$1,001 - $15,000",Senate,1001.0,D
+991,Thomas R. Carper,2022-12-09,2022-11-08,WIW,Sale,"$1,001 - $15,000",Senate,1001.0,D
+992,John Hickenlooper,2022-11-29,2022-11-23,BATRK,Purchase,"$50,001 - $100,000",Senate,50001.0,D
+993,John Hickenlooper,2022-11-29,2022-11-23,BATRK,Sale,"$100,001 - $250,000",Senate,100001.0,D
+994,John Hickenlooper,2022-11-29,2022-11-21,BATRA,Sale,"$15,001 - $50,000",Senate,15001.0,D
+995,John Hickenlooper,2022-11-29,2022-11-21,BATRA,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+996,John Hickenlooper,2022-11-29,2022-11-21,BATRK,Sale,"$15,001 - $50,000",Senate,15001.0,D
+997,John Hickenlooper,2022-11-29,2022-11-21,BATRK,Purchase,"$1,001 - $15,000",Senate,1001.0,D
+998,John Hickenlooper,2022-11-29,2022-11-14,LBRDA,Sale,"$50,001 - $100,000",Senate,50001.0,D
+999,John Hickenlooper,2022-11-29,2022-11-14,LBRDA,Purchase,"$15,001 - $50,000",Senate,15001.0,D
